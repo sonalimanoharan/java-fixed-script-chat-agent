@@ -1,0 +1,9 @@
+# NetBeans build output (regenerated on every build)
+build/
+dist/
+
+# NetBeans per-machine settings
+nbproject/private/
+
+# Compiled Java
+*.class
